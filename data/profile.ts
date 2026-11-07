@@ -35,7 +35,7 @@ export const profile = {
   links: [
     {
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/sandra-kayirangwa-a01628406/",
+      href: "https://www.linkedin.com/in/sandra-kayirangwa",
     },
     { label: "GitHub", href: "https://github.com/sandrakayirangwaa" },
     { label: "Behance", href: "https://www.behance.net/sandrakayiran" },
